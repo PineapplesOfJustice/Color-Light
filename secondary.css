@@ -1,7 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Handlee");
 @import url("https://fonts.googleapis.com/css?family=Dancing+Script");
-@import url("https://fonts.googleapis.com/css?family=Handlee");
-
 
 body{background-color:#39FF14}
 #P1{
@@ -43,8 +41,4 @@ padding:10px;
 margin:20px;
 font-family:Dancing Script;
 color:green;
-}
-
-a{
-  color: black;
 }
