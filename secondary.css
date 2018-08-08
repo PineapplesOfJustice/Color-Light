@@ -4,17 +4,17 @@
 
 body{background-color:#39FF14}
 #P1{
-background-image:url("http://creativity103.com/collections/Paper/fine_art_paper.jpg");
+background-image:url("Images/Background/White Background.jpg");
 padding:10px;
 margin:20px;
 }
 #P2{
-background-image:url("http://creativity103.com/collections/Paper/fine_art_paper.jpg");
+background-image:url("Images/Background/White Background.jpg");
 padding:10px;
 margin:20px;
 }
 #P3{
-background-image:url("http://creativity103.com/collections/Paper/fine_art_paper.jpg");
+background-image:url("Images/Background/White Background.jpg");
 padding:10px;
 margin:20px;
 }
@@ -24,7 +24,7 @@ text-decoration: none;
 }
 img{
 width:500;
-background-image:url("http://creativity103.com/collections/Paper/fine_art_paper.jpg");
+background-image:url("Images/Background/White Background.jpg");
 padding:10px;
 margin:20px;
 }
@@ -37,7 +37,7 @@ a{
 margin-left:10px;
 }
 h1{
-background-image:url("http://creativity103.com/collections/Paper/fine_art_paper.jpg");
+background-image:url("Images/Background/White Background.jpg");
 padding:10px;
 margin:20px;
 font-family:Dancing Script;
